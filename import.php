@@ -35,6 +35,3 @@ foreach($html_base->find('table.yui') as $element) {
 
 $html_base->clear();
 unset($html_base);
-
-
-sdfsdffdssdffds
